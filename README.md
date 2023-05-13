@@ -4,9 +4,9 @@ This repository contains the analysis of the data collected during the evaluatio
 
 There were three types of data collected in the study:
 
-- [xAPI statements](https://xapi.com/statements-101/) that were automatically collected by the AR application while students were using them. We created a Python [package](https://stocastico.github.io/xapi_analysis/) that simplifies and speeds up the analysis of xAPI statements
+- [xAPI statements](https://xapi.com/statements-101/) that were automatically collected by the AR application while students were using them. We created a Python [package](https://stocastico.github.io/xapi_analysis/) that simplifies and speeds up the analysis of xAPI statements. This repository makes use of [**ask_ai**](https://github.com/radekosmulski/ask_ai) a small Python library that allows interacting with ChatGPT from a Jupyter environment. Ideally, using the functions from this repository and the help provided by ChatGPT, even non-technical people should be able to analyse the data collected in the form of xAPI statements.
 
-- Questionnaires data: After using the app, the students were asked to fill a 20-question questionnaire. The questionnaire aimed to measure the students' opinions about the app collaborative functionalities, the user interface and the learning experience
+- Questionnaires data: After using the app, the students were asked to fill a 20-question questionnaire. The questionnaire aimed to measure the students' opinions about the app collaborative functionalities, the user interface and the learning experience. The questionnaires also included an optional "**comments**" section, where the students could add their opinion about the app and anything else that was not captured in the questionnaire. These comments are not included in the data analysis.
 
 - Post intervention interviews with the teachers (not hosted in this repository). After the intervention we conducted short interviews with the teachers, with open-ended questions, asking for their opinions about the app, its usefulness as a learning tool, its advantages and weak points.
 
