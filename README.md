@@ -12,6 +12,6 @@ There were three types of data collected in the study:
 
 Additionally, [in this folder](./generate_questions/) there is the small web app that can be used to generate questions for the app (and automatically compute the answer), as well as the JSON files with the questions used during the evaluations.
 
-This [folder](latex_sources) includes the $\latex$ source files of the manuscript submitted for review.
+This [folder](latex_sources) includes the $\LaTeX$ source files of the manuscript submitted for review.
 
 The code for the app (Android, iOS and web version) is available add the following repository (TODO)
