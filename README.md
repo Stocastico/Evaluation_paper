@@ -14,4 +14,4 @@ Additionally, [in this folder](./generate_questions/) there is the small web app
 
 This [folder](latex_sources) includes the $\LaTeX$ source files of the manuscript submitted for review.
 
-The code for the app (Android, iOS and web version) is available add the following repository (TODO)
+The code for the app (Android, iOS and web version) is available at the [following repository](https://github.com/tv-vicomtech/ARoundtheworld)
